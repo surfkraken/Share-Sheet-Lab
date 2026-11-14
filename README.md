@@ -8,7 +8,7 @@ Created by 🐙SurfKraken.
 
 ## Installation
 
-The signed iCloud download link will be added here before release.
+[Download Share-Sheet-Lab](https://www.icloud.com/shortcuts/db253a6598624112b1203589289d373a)
 
 ## What it does
 
