@@ -1,0 +1,6 @@
+{
+  "version": 1.5,
+  "build": 105,
+  "url": "",
+  "release_notes": "Automatic update checks now use the dedicated Share-Sheet-Lab repository."
+}
